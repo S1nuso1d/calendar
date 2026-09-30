@@ -83,9 +83,5 @@ def calendar():
     print_calendar(year)
 
 def plan():
-    Выберите дату
-
-    Меню
-
-    Выбор
+    print()
 
